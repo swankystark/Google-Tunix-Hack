@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+
+# Datasets
+tunix_data_preprocessed/codeforces_coding.jsonl
+output/
+*.log
