@@ -1,0 +1,4 @@
+2025-12-19 12:35:01,486 [INFO] 🔥 Starting Smart Download Script
+2025-12-19 12:35:01,490 [INFO] ⏭️ Found 5 datasets already partially/fully handled in logs.
+2025-12-19 12:35:01,490 [INFO] ✅ Skipping (Already in Log): AI-MO/NuminaMath-CoT
+2025-12-19 12:35:09,213 [INFO] ✅ Skipping (Already in Log): ndavidson/sat-math-chain-of-thought
